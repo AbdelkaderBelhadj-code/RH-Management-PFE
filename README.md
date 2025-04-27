@@ -8,6 +8,8 @@ A RESTful API for user authentication built with Node.js, Express, and MongoDB.
 - JWT authentication
 - Role-based authorization
 - Password hashing with bcrypt
+- Angular frontend interface
+- Real-time notifications with WebSockets
 
 ## Setup
 
